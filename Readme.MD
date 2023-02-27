@@ -1,4 +1,4 @@
-## ******E-commerce with Django and React. ******
+## ******E-commerce with Django and React.******
 
 ![header](https://raw.githubusercontent.com/danher0310/ecommerce/main/img/react_django.png) 
 
